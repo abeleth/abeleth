@@ -41,8 +41,7 @@ Hi! I’m **Abel Ketema**, a passionate **DevOps Engineer**, currently pursuing 
 #### **Top Languages in My Repositories**  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&langs_count=10&layout=compact&theme=tokyonight&hide_border=true)
 
-#### **Contributions Streak**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true)
+
 
 
 ---
