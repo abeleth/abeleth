@@ -96,7 +96,6 @@ Hi! I’m **Abel Ketema**, a passionate **DevOps Engineer**, currently pursuing 
 - 📧 **Email**: [abel.ketema22@gmail.com](mailto:abel.ketema22@gmail.com)  
 
 ---
-### 📈 Contribution Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=github)
+
 
 Feel free to reach out if you'd like to collaborate, learn, or just chat about DevOps and Cloud Engineering! 🚀
