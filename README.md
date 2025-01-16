@@ -74,7 +74,7 @@ Hi! I’m **Abel Ketema**, a passionate **DevOps Engineer**, currently pursuing 
 ---
 
 ## 🔗 Connect with Me:
-- 🌐 **Portfolio**: [https://www.abelketema.com/](#)  
+- 🌐 **Portfolio**: (https://www.abelketema.com/)(#)  
 - 💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourusername)  
 - 🐤 **Twitter**: [Your Twitter Handle](https://twitter.com/yourusername)  
 - 📄 **Resume**: [Download Here](#)  
