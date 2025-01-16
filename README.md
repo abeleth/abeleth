@@ -48,13 +48,6 @@ Hi! I’m **Abel Ketema**, a passionate **DevOps Engineer**, currently pursuing 
   - Contribute to impactful **open-source projects**.  
   - Lead **high-performing DevOps teams** to deliver innovative solutions.  
 
----
-
-## 📓 Certifications:
-- 🏆 **AWS Certified Solutions Architect – Associate**  
-- 🏆 **Google Cloud Professional Cloud Architect**  
-- 🏆 **Certified Kubernetes Administrator (CKA)**  
-- 🏆 **HashiCorp Certified: Terraform Associate**  
 
 ---
 
