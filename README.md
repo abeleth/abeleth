@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hello there; welcome to [Your Name]'s space 👋
 
-<!--
-**abeleth/abeleth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Cloud/DevOps Engineer passionate about AWS, GCP, and Azure. I specialize in automating cloud infrastructure using tools like Terraform, Kubernetes, and Python.
 
-Here are some ideas to get you started:
+### A quick summary about me:
+- 🌟 **Pronouns:** He/him
+- 🚀 **Fun fact:** I love solving problems and working collaboratively in teams.
+- 🛠️ **Currently learning:** Cloud-native monitoring tools and DevOps best practices.
+- 👀 **Looking for:** Open source projects and DevOps opportunities.
+- 🎯 **Interests:** DevOps, Cloud Engineering, System Architecture, and more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to check out my [resume](#) or contact me via [email@example.com](mailto:email@example.com).
+
+---
+
+### My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+### Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
