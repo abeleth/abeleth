@@ -43,7 +43,6 @@ Hi! I’m **Abel Ketema**, a passionate **DevOps Engineer**, currently pursuing 
 ---
 
 ## 🌍 About Me:
-- 🌟 **Pronouns**: He/him  
 - 💡 **Fun Fact**: I thrive on automating repetitive tasks and solving challenging problems.  
 - 🛠️ **Currently Learning**: Advanced Kubernetes concepts, Service Mesh, Cloud-Native Security, and DevOps best practices.  
 - 🌱 **Interests**: Cloud-Native technologies, Open Source contributions, and System Architecture.  
