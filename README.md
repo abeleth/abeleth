@@ -78,7 +78,7 @@ Hi! I’m **Abel Ketema**, a passionate **DevOps Engineer**, currently pursuing 
 - 💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourusername)  
 - 🐤 **Twitter**: [Your Twitter Handle](https://twitter.com/yourusername)  
 - 📄 **Resume**: [Download Here](#)  
-- 📧 **Email**: [abel.ketema@example.com](mailto:abel.ketema@example.com)  
+- 📧 **Email**: [abel.ketema22@gmail.com](mailto:abel.ketema22@gmail.com)  
 
 ---
 
