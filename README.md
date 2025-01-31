@@ -28,8 +28,8 @@ Hi! I’m **Abel Ketema**, a passionate **DevOps Engineer**, currently pursuing 
 | **Containerization**     | Docker, Kubernetes, Helm                                                                                     |
 | **Monitoring**           | Prometheus, Grafana, Datadog, ELK Stack (Elasticsearch, Logstash, Kibana)                                     |
 | **Programming & Scripting** | Python, Bash, Go, YAML, JSON                                                                                  |
-| **Version Control**      | Git, GitHub, GitLab, Bitbucket                                                                               |
-| **Other DevOps Tools**   | Nginx, Apache, Vault, SonarQube, Artifactory                                                                 |
+| **Version Control**      | Git, GitHub, GitLab,                                                                                         |
+| **Other DevOps Tools**   | Nginx,  SonarQube,                                                                                        |
 
 ---
 
