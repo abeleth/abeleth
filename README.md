@@ -54,13 +54,6 @@ Hi! I’m **Abel Ketema**, a passionate **DevOps Engineer**, currently pursuing 
 
 ---
 
-## 📊 GitHub Stats:
-#### **My GitHub Overview**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-
----
-
 ## 🌍 About Me:
 - 💡 **Fun Fact**: I thrive on automating repetitive tasks and solving challenging problems.  
 - 🛠️ **Currently Learning**: Advanced Kubernetes concepts, Service Mesh, Cloud-Native Security, and DevOps best practices.  
