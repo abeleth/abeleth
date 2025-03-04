@@ -71,7 +71,7 @@ Hi! I’m **Abel Ketema**, a passionate **DevOps Engineer**, currently pursuing 
 - **Description**: Automated multi-cloud infrastructure provisioning using Terraform and CI/CD integration.  
 - **Tech Stack**: Terraform, AWS, GCP, Jenkins, Kubernetes.  
 
-### 🔹 **[Project Name 2](#)**
+### 🔹 **[Project Name 2](#)**devops-exercises
 - **Description**: Built and deployed a containerized microservices application using Docker and Kubernetes, with Prometheus monitoring.  
 - **Tech Stack**: Docker, Kubernetes, Prometheus, Grafana.  
 
