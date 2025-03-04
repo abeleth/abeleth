@@ -67,7 +67,7 @@ Hi! I’m **Abel Ketema**, a passionate **DevOps Engineer**, currently pursuing 
 ---
 
 ## 🛠️ Featured Projects:
-### 🔹 **[Project Name 1](#)**
+### 🔹 **[Project Name 1](#)**DevSecOps-Project-netflix
 - **Description**: Automated multi-cloud infrastructure provisioning using Terraform and CI/CD integration.  
 - **Tech Stack**: Terraform, AWS, GCP, Jenkins, Kubernetes.  
 
