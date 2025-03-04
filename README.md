@@ -75,7 +75,8 @@ Hi! I’m **Abel Ketema**, a passionate **DevOps Engineer**, currently pursuing 
 - **Description**: Built and deployed a containerized microservices application using Docker and Kubernetes, with Prometheus monitoring.  
 - **Tech Stack**: Docker, Kubernetes, Prometheus, Grafana.  
 
-### 🔹 **[Project Name 3](#)**
+### 🔹 **[Project Name 3](#)**jenkins-101for-abel
+
 - **Description**: Designed a real-time monitoring solution for cloud infrastructure using ELK Stack, reducing downtime by 30%.  
 - **Tech Stack**: Elasticsearch, Logstash, Kibana, AWS.  
 
