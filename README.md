@@ -5,7 +5,7 @@
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 # DevOps Space! 👋  
 <img align="right" height="300" width="500" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-<img align="right" height="300" width="500" src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" />
+<img align="right" height="300" width="500" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
 
 
 ### 🚀 DevOps Engineer | Cloud Enthusiast | Automation Specialist  
