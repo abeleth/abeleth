@@ -8,6 +8,7 @@
 <img align="right" height="300" width="500" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
 
 
+
 ### 🚀 DevOps Engineer | Cloud Enthusiast | Automation Specialist  
 
 Hi! I’m **Abel Ketema**, a passionate **DevOps Engineer**, currently pursuing my **Master's in Science in Cloud Computing** and holding a **Bachelor's degree in Management Information Systems (MIS)**. I have a proven track record of building scalable and secure infrastructure, streamlining CI/CD workflows, and enabling teams to deliver high-quality software faster. I thrive in collaborative environments where innovation meets automation.  
