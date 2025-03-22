@@ -95,7 +95,7 @@ DevOps Stack
 
 ## 🔗 Connect with Me:
 - 🌐 **Portfolio**: (https://www.abelketema.com/)
-- 💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourusername)  
+- 💼 **LinkedIn**: (https://www.linkedin.com/in/abel-ketema-contact-me/) 
 - 🐤 **Twitter**: [Your Twitter Handle](https://twitter.com/yourusername)  
 - 📄 **Resume**: [Download Here](#)  
 - 📧 **Email**: [abel.ketema22@gmail.com](mailto:abel.ketema22@gmail.com)  
