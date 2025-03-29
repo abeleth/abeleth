@@ -1,6 +1,6 @@
 #  welcome to 
 
-# Abel Ketema's 
+# Vallabhaneni Sai Krishna 
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
@@ -11,30 +11,31 @@
 
 ### 🚀 DevOps Engineer | Cloud Enthusiast | Automation Specialist  
 
-Hi! I’m **Abel Ketema**, a passionate **DevOps Engineer**, currently pursuing my **Master's in Science in Cloud Computing** and holding a **Bachelor's degree in Management Information Systems (MIS)**. I have a proven track record of building scalable and secure infrastructure, streamlining CI/CD workflows, and enabling teams to deliver high-quality software faster. I thrive in collaborative environments where innovation meets automation.  
+Hi! I’m **Vallabhaneni Sai Krishna**, a passionate **DevOps Engineer**,holding a **Bachelor's degree in Computer Science and Engineering (CSE)**. I have a proven track record of building scalable and secure infrastructure, streamlining CI/CD workflows, and enabling teams to deliver high-quality software faster. I thrive in collaborative environments where innovation meets automation.  
 
 ---
 
 ## 🌟 What I Do:
-- **Infrastructure Automation**: Expert in **Infrastructure as Code (IaC)** using tools like **Terraform** and **CloudFormation** to provision scalable, cloud-based environments.  
-- **CI/CD Pipelines**: Designing and managing CI/CD workflows using tools such as **Jenkins**, **GitHub Actions**, **Azure DevOps**, and **AWS CodePipeline**.  
+- **Infrastructure Automation**: Expert in **Infrastructure as Code (IaC)** using tools like **Terraform** to provision scalable, cloud-based environments.  
+- **CI/CD Pipelines**: Designing and managing CI/CD workflows using tools such as **Jenkins**, **GitLab**, **Azure DevOps**.  
 - **Container Orchestration**: Proficient in **Docker** and **Kubernetes** for deploying and managing containerized applications in production.  
-- **Monitoring & Observability**: Setting up robust monitoring solutions using **Prometheus**, **Grafana**, **Datadog**, and the **ELK Stack** to ensure reliability and performance.  
-- **Cloud Platforms**: Hands-on experience with **AWS**, **Google Cloud**, and **Azure**, with a focus on **multi-cloud** architectures.  
+- **Monitoring & Observability**: Setting up robust monitoring solutions using **Prometheus**, **Grafana**, **Loki**, and the **New Relic** to ensure reliability and performance.  
+- **Cloud Platforms**: Hands-on experience with **AWS**, **Azure**, with a focus on **multi-cloud** architectures.
+- **Automation**: Automated the things using "Shell Scripting."
 
 ---
 
 ## 🛠️ My DevOps Toolbox:
 | **Category**            | **Tools & Technologies**                                                                                       |
 |--------------------------|---------------------------------------------------------------------------------------------------------------|
-| **Cloud Platforms**      | AWS, Google Cloud, Azure                                                                                     |
-| **IaC Tools**            | Terraform, CloudFormation, Ansible                                                                           |
-| **CI/CD Tools**          | Jenkins, GitHub Actions, GitLab CI, Azure DevOps, AWS CodePipeline                                           |
+| **Cloud Platforms**      | AWS, Azure                                                                                     |
+| **IaC Tools**            | Terraform, Ansible                                                                           |
+| **CI/CD Tools**          | Jenkins, GitLab, Azure DevOps                                           |
 | **Containerization**     | Docker, Kubernetes, Helm                                                                                     |
-| **Monitoring**           | Prometheus, Grafana, Datadog, ELK Stack (Elasticsearch, Logstash, Kibana)                                     |
-| **Programming & Scripting** | Python, Bash, Go, YAML, JSON                                                                                  |
+| **Monitoring**           | Prometheus, Grafana, Loki, New Relic                                    |
+| **Programming & Scripting** | Bash, YAML                                                                                |
 | **Version Control**      | Git, GitHub, GitLab,                                                                                         |
-| **Other DevOps Tools**   | Nginx,  SonarQube,                                                                                        |
+| **Other DevOps Tools**   | Nginx,  SonarQube,  Jfrog                                                                                      |
 
 ---
 
@@ -65,40 +66,20 @@ DevOps Stack
 
 ---
 
-## 🌍 About Me:
-- 💡 **Fun Fact**: I thrive on automating repetitive tasks and solving challenging problems.  
-- 🛠️ **Currently Learning**: Advanced Kubernetes concepts, Service Mesh, Cloud-Native Security, and DevOps best practices.  
-- 🌱 **Interests**: Cloud-Native technologies, Open Source contributions, and System Architecture.  
-- 🎯 **Future Goals**: 
-  - Master **multi-cloud architecture** and **DevSecOps**.  
-  - Contribute to impactful **open-source projects**.  
-  - Lead **high-performing DevOps teams** to deliver innovative solutions.  
-
-
----
-
 ## 🛠️ Featured Projects:
 ### 🔹 **[Project Name 1](#)**DevSecOps-Project-netflix
 - **Description**: Automated multi-cloud infrastructure provisioning using Terraform and CI/CD integration.  
-- **Tech Stack**: Terraform, AWS, GCP, Jenkins, Kubernetes.  
+- **Tech Stack**: Terraform, AWS, Jenkins, Kubernetes.  
 
-### 🔹 **[Project Name 2](#)**devops-exercises
+### 🔹 **[Project Name 2](#)**three_tier_web_app
 - **Description**: Built and deployed a containerized microservices application using Docker and Kubernetes, with Prometheus monitoring.  
-- **Tech Stack**: Docker, Kubernetes, Prometheus, Grafana.  
-
-### 🔹 **[Project Name 3](#)**jenkins-101for-abel
-
-- **Description**: Designed a real-time monitoring solution for cloud infrastructure using ELK Stack, reducing downtime by 30%.  
-- **Tech Stack**: Elasticsearch, Logstash, Kibana, AWS.  
+- **Tech Stack**: Docker, Kubernetes, Prometheus, Grafana.    
 
 ---
 
 ## 🔗 Connect with Me:
-- 🌐 **Portfolio**: (https://www.abelketema.com/)
-- 💼 **LinkedIn**: (https://www.linkedin.com/in/abel-ketema-contact-me/) 
-- 🐤 **Twitter**: [Your Twitter Handle](https://twitter.com/yourusername)  
-- 📄 **Resume**: [Download Here](#)  
-- 📧 **Email**: [abel.ketema22@gmail.com](mailto:abel.ketema22@gmail.com)  
+- 💼 **LinkedIn**: (https://www.linkedin.com/in/vallabhaneni-sai-krishna)
+- 📧 **Email**: [vallabhanenisai1999@gmail.com](mailto:vallabhanenisai1999@gmail.com)  
 
 ---
 
